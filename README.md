@@ -111,13 +111,12 @@ MISS /xmlrpc.php
 
 ![](https://ccloli.com/wp-content/uploads/2020/01/BOC1XVD7XVVSJ1KCGDVYH.png)
 
-这些音频文件后续可能会打包上传到网盘上并更新在下方，以防真的有像我这样的回忆党。不过如果你真的很感兴趣并想立即获得这些文件，请访问下面的地址下载（虽然服务器有 2TB 的双向流量，但是对于 8GB 来说还是有点小，希望不会真的有很多人怀旧）：
+这些音频文件后续可能会打包上传到网盘上并更新在下方，以防真的有像我这样的回忆党。
 
-```
-# 请复制下面文本至浏览器地址栏后回车以查看解码后文本
-data:text/plain;base64,aHR0cHM6Ly9zYmkuY2Nsb2xpLmNvbS9ueWFuY2RuLnRhcg==
-```
+以下是上传至网盘的下载链接：
 
+- [百度网盘](https://pan.baidu.com/s/1VwyEZT9K36bA-6NJM2hTOQ#4f5f)（密码：4f5f）
+- [OneDrive](https://whueducn-my.sharepoint.com/:f:/g/personal/ccloli_whu_edu_cn/EsVPpKeRhIBAn7uCxWoBy_gB73SuxnOLO7FeElGiHQTZVw?e=PJzxLd)
 
 ## 所以已经有那么多音乐平台了，为什么要写这么个东西？
 
